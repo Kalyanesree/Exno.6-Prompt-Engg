@@ -56,10 +56,6 @@ Compare these API responses and highlight:
 3.	Data completeness
 4.	Any contradictory information
 
-Responses:
-{responses}
-
-
 
 ```def call_api(self, url: str, params: Diet= None, headers: Diet= None) ->
 Diet:
@@ -184,28 +180,6 @@ o	Purpose: Multimodal analysis and alternative perspective o Strengths: Strong a
 4.	LangChain Framework
 
 o Purpose: Orchestration and workflow management o Strengths: Simplifies complex chains of operations with multiple Al tools o Implementation: Used to manage prompts and chains between different components
-
-#Result:
-The corresponding Prompt is executed successfully
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Result: The corresponding Prompt is executed successfully
